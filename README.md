@@ -1,8 +1,8 @@
 # Grocery-Order-System
 
-#Roles: buyer  seller  admin
+# Roles: buyer  seller  admin
 
-#functions:
+# functions:
 •	Register: buyer and seller
 •	Login: seller and buyer
 •	Add grocery: seller and admin
@@ -20,5 +20,5 @@
 •	Delete order: admin
 
 
-##Frontend: Bootstrap, JavaScript, JSP
-##Backend: Java, Spring MVC, Hibernate, MySQL
+## Frontend: Bootstrap, JavaScript, JSP
+## Backend: Java, Spring MVC, Hibernate, MySQL
