@@ -21,4 +21,4 @@
 
 
 ### Frontend: Bootstrap, JavaScript, JSP
-### Backend: Java, Spring MVC, Hibernate, MySQL
+### Backend: Java, Spring MVC, Hibernate, MySQL, Maven
